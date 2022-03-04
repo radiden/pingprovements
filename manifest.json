@@ -1,0 +1,10 @@
+﻿{
+	"name": "Pingprovements",
+	"version_number": "1.8.0",
+	"website_url": "https://github.com/radiden/pingprovements",
+	"description": "Several improvements to Pings, like multiple pings and adjustable timers or colors per type",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
