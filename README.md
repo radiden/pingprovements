@@ -1,5 +1,7 @@
 # Pingprovements
 
+This is an updated version of [pixeldesu](https://github.com/pixeldesu)'s Pingprovements mod. All credits go to them.
+
 This mod has been ~~hacked together~~ carefully assembled to work again on the latest version of the game (when the first DLC came out). It might break very fast. I don't know.
 
 # Original README
